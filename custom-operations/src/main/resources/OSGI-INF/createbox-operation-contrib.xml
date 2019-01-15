@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<component name="com.moj.red.operation.createbox" version="1.0">
+
+  <extension point="operations" target="org.nuxeo.ecm.core.operation.OperationServiceComponent">
+    <operation class="com.moj.red.CreateBox"/>
+  </extension>
+
+</component>
